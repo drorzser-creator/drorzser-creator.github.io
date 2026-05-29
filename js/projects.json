@@ -1,0 +1,73 @@
+[
+	{
+		"id": 1,
+		"title": "Luxury Family House",
+		"category": "residential",
+		"image": "images/portfolio/portfolio-1.jpg",
+		"description": "Modern luxury family home built with high-quality materials and contemporary architectural design."
+	},
+
+	{
+		"id": 2,
+		"title": "Office Complex",
+		"category": "commercial",
+		"image": "images/portfolio/portfolio-2.jpg",
+		"description": "Large-scale commercial office building designed for modern businesses and professional workspaces."
+	},
+
+	{
+		"id": 3,
+		"title": "Kitchen Renovation",
+		"category": "renovation",
+		"image": "images/portfolio/portfolio-3.jpg",
+		"description": "Complete kitchen remodel featuring modern cabinets, lighting, and premium interior finishes."
+	},
+
+	{
+		"id": 4,
+		"title": "Modern Apartment",
+		"category": "residential",
+		"image": "images/portfolio/portfolio-4.jpg",
+		"description": "Stylish apartment construction project focused on comfort, energy efficiency, and modern living."
+	},
+
+	{
+		"id": 5,
+		"title": "Retail Building",
+		"category": "commercial",
+		"image": "images/portfolio/portfolio-5.jpg",
+		"description": "Commercial retail development created to support local businesses and customer accessibility."
+	},
+
+	{
+		"id": 6,
+		"title": "Bathroom Remodel",
+		"category": "renovation",
+		"image": "images/portfolio/portfolio-6.jpg",
+		"description": "Elegant bathroom renovation with modern fittings, improved lighting, and functional design."
+	},
+
+	{
+		"id": 7,
+		"title": "Home Extension Project",
+		"category": "residential",
+		"image": "images/portfolio/portfolio-7.jpg",
+		"description": "Residential home extension providing additional living space with seamless architectural integration."
+	},
+
+	{
+		"id": 8,
+		"title": "Warehouse Construction",
+		"category": "commercial",
+		"image": "images/portfolio/portfolio-8.jpg",
+		"description": "Industrial warehouse project built for durability, storage efficiency, and commercial operations."
+	},
+
+	{
+		"id": 9,
+		"title": "Living Room Renovation",
+		"category": "renovation",
+		"image": "images/portfolio/portfolio-9.jpg",
+		"description": "Modern living room redesign featuring upgraded interiors, stylish finishes, and improved comfort."
+	}
+]
